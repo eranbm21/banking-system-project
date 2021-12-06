@@ -1,0 +1,113 @@
+{
+  "1111": {
+    "opened_at": 1635734222,
+    "status_account": "active",
+    "name": "eli cohen",
+    "ph_number": "0523376545",
+    "id_number": "123456789",
+    "actions": [
+      {
+        "currency": "ILS",
+        "amount": 1000,
+        "timestamp": 1635734222,
+        "conversion_rate": 1
+      },
+      {
+        "currency": "USD",
+        "amount": -120,
+        "timestamp": 1635734222,
+        "conversion_rate": 0.32
+      },
+      {
+        "currency": "EUR",
+        "amount": 112.0,
+        "timestamp": 1638301321.587493,
+        "conversion_rate": 0.24810730216763474
+      }
+    ]
+  },
+  "1112": {
+    "opened_at": 1635993422,
+    "status_account": "active",
+    "name": "rami nor",
+    "ph_number": "0503457546",
+    "id_number": "328476544",
+    "actions": [
+      {
+        "currency": "ILS",
+        "amount": 500,
+        "timestamp": 1635993422,
+        "conversion_rate": 1
+      },
+      {
+        "currency": "EUR",
+        "amount": -120,
+        "timestamp": 1635993422,
+        "conversion_rate": 0.28
+      }
+    ]
+  },
+  "1113": {
+    "opened_at": 1636598222,
+    "status_account": "active",
+    "name": "yaniv binyamin",
+    "ph_number": "0526523985",
+    "id_number": "239756095",
+    "actions": [
+      {
+        "currency": "EUR",
+        "amount": 1700,
+        "timestamp": 1636598222,
+        "conversion_rate": 0.28
+      },
+      {
+        "currency": "ILS",
+        "amount": -120,
+        "timestamp": 1636598222,
+        "conversion_rate": 1
+      }
+    ]
+  },
+  "1114": {
+    "opened_at": 1637203022,
+    "status_account": "active",
+    "name": "gili zomer",
+    "ph_number": "0543624795",
+    "id_number": "238765498",
+    "actions": [
+      {
+        "currency": "ILS",
+        "amount": 500,
+        "timestamp": 1637203022,
+        "conversion_rate": 1
+      },
+      {
+        "currency": "ILS",
+        "amount": -120.0,
+        "timestamp": 1637203022,
+        "conversion_rate": 1
+      }
+    ]
+  },
+  "1115": {
+    "opened_at": 1637822693,
+    "status_account": "active",
+    "name": "rina rev",
+    "ph_number": "0527888543",
+    "id_number": "433387265",
+    "actions": [
+      {
+        "currency": "ILS",
+        "amount": 1500.55,
+        "timestamp": 1637822693,
+        "conversion_rate": 1
+      },
+      {
+        "currency": "ILS",
+        "amount": -1200.45,
+        "timestamp": 1637822693,
+        "conversion_rate": 1
+      }
+    ]
+  }
+}
